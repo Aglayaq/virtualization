@@ -1,0 +1,3 @@
+ПОставить Ovirt node 4.4
+Поставить Ovrit Engine на Centos 8.1
+Добавить node в engine и посмотреть на функционал
